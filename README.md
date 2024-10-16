@@ -25,7 +25,9 @@ Used Hexagonal Architecture (Port-Adapter) to build the web server.
 
 * `configs` - contains configs & env vars related logics
 * `env` - contains env vars files.
-* `pkg` - here the main application logics relies 
+* `pkg` - here the main application logics relies
+  
+![Untitled-2024-03-18-1524](https://github.com/user-attachments/assets/90757274-c294-41a0-8723-8a4eede27341)
 
 
 
